@@ -1,0 +1,25 @@
+아이디어
+에이전틱 ai가 많이 사용됨에 따라서 수혜를 입을 곳?
+
+추론, 메모리, 스토리지, 전력, 에이전트 보안, 에이전트 신원, 결제, 등등
+
+여기서 주목한 한가지 버츄얼 서버 (VPS)
+-> 내 에이전틱 ai를 24시간 돌리기위해 사용하는 서버
+-> 아마존 aws -> 비싸서 개인이 사용하기 어려움
+개인들이 사용하는 것: DigitalOcean, Vultr, Hostinger, Hetzner, Akamai
+
+가장 많이 사용하는 것: hostinger
+상장 되있는 회사: digital ocean, akamai
+
+일반 vps -> cpu + ram + storage
+gpu vps -> gpu 가 달린 일반 vps
+
+개인 사용자가 많아지면 cpu + ram + storage -> 늘 수 밖에 없다. 
+
+저장공간 수요 증가 → SanDisk, Western Digital
+RAM/메모리 수요 증가 → SK하이닉스, 삼성전자, 마이크론
+CPU 수요 증가 → AMD, Intel (다만 마진 낮음)
+그리고 이 셋을 다 담은 VPS 회사 자체(DigitalOcean, Akamai) → 판매량 자체가 늘어나는 구조
+
+
+AMD!
